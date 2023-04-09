@@ -5,3 +5,6 @@ geometry()
 
 size of the window by sing the function geometry(). geometry is the function which is used to select the length and breadth of your window.
 
+
+title() is the function used to name your window.
+
