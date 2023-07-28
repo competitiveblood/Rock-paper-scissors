@@ -1,4 +1,3 @@
-
 import random
 print("welcome to scissors,papers and rock game:)")
 user=input("what is user name: ")
