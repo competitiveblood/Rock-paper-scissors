@@ -12,7 +12,7 @@ else:
             break
 compscore=0
 userscore=0
-print("hello %s you are in the hell now :( " %user)
+print("Hello %s you are in the hell now :( " %user)
 r1=input("Round 1. what is your call(rock,paper,scissors) : ")
 comp="scissors","papers","rock"
 comp1=random.choice(comp)
