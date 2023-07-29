@@ -1,6 +1,6 @@
 import random
-print("welcome to scissors,papers and rock game:)")
-user=input("what is user name: ")
+print("welcome to rock,paper,scissors game:)")
+user=input("what is user name :)  : ")
 password=input("what is password: ")
 if password=="shivz@2004":
     print("Entered to Game!")
@@ -13,7 +13,7 @@ else:
 compscore=0
 userscore=0
 print("hello %s you are in the hell now :( " %user)
-r1=input("Round 1. what is your call(scissors,papers,rock) : ")
+r1=input("Round 1. what is your call(rock,paper,scissors) : ")
 comp="scissors","papers","rock"
 comp1=random.choice(comp)
 print("Computers Call: %s " %comp1)
